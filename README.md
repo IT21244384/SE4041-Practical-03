@@ -1563,3 +1563,18 @@ Open your GitHub Classroom repository and verify that your latest files and scre
 - [ ] Changes are committed, pushed, and visible on GitHub.
 
 
+
+---
+
+## Student Submission
+
+| | |
+|---|---|
+| **Student Name** | Abisheak S |
+| **Student ID** | IT21244384 |
+| **Environment** | Swift 6.4.1 toolchain for Windows, compiled with `swiftc <file>.swift -o build/<file>.exe` and run from PowerShell, code edited in Visual Studio Code |
+
+## My Practical Evidence
+
+![Exercise output](screenshots/01-exercises.png)
+![Final challenge output](screenshots/02-final-challenge.png)
